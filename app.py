@@ -3,7 +3,7 @@ from strage import save_data, load_data
 from analyzer import analyze, KEYWORD_MAP
 from ui_components import show_result
 
-KEY_FILE = ".gemini_key"
+KEY_FILE = ".env"
 PROFILE_FILE = "user_profile.json"
 
 saved_key = load_data(KEY_FILE, "")
