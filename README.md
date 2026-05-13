@@ -1,2 +1,2 @@
-# webcompanysearch
+# companysearch
 自身のスキル・経験・希望条件を入力し、企業HPのURLを入力するとその企業とマッチしているか分析するツール
